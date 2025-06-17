@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+
+}
+.memes{
+    font-family: Libre Baskerville, serif;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.picture{
+    width:100%;   
+    border: 5px solid white;
+}
